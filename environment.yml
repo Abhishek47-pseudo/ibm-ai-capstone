@@ -1,0 +1,21 @@
+name: ibm-ai-capstone
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - dash>=2.14,<3
+  - flask>=2.3,<3
+  - werkzeug<3
+  - ipykernel>=6.0
+  - jupyter>=1.0
+  - matplotlib>=3.8
+  - numpy>=1.26
+  - pandas>=2.0
+  - plotly>=5.0
+  - requests>=2.31
+  - scikit-learn>=1.4
+  - scipy>=1.11
+  - pip
+  - pip:
+      - joblib>=1.4

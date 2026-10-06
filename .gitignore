@@ -1,0 +1,14 @@
+application/__pycache__
+application/utils/__pycache__
+unittests/__pycache__
+dashboards/__pycache__
+dashboards/pages/__pycache__
+dashboards/utils/__pycache__
+models
+logs
+evaluation
+.jovianrc
+.vscode
+.ipynb_checkpoints
+
+
